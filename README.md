@@ -1,2 +1,0 @@
-# Flashcards-quizgame
-Endterm project
